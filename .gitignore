@@ -1,2 +1,4 @@
+pg-isready
+
 vendor/*
 !vendor/vendor.json
