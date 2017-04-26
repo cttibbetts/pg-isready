@@ -1,0 +1,21 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "evm0sbnZmVcgcDSFQKHsPfU7R5k=",
+			"origin": "github.com/Novetta/nma-web-ingester/vendor/github.com/jackc/pgx",
+			"path": "github.com/jackc/pgx",
+			"revision": "00b0704c95539c605f3b6092cb372e0835e13305",
+			"revisionTime": "2017-04-24T20:28:38Z"
+		},
+		{
+			"checksumSHA1": "OJx8wJ6aUlQPJHXdsambXcrRD+o=",
+			"origin": "github.com/Novetta/nma-web-ingester/vendor/github.com/jackc/pgx/stdlib",
+			"path": "github.com/jackc/pgx/stdlib",
+			"revision": "00b0704c95539c605f3b6092cb372e0835e13305",
+			"revisionTime": "2017-04-24T20:28:38Z"
+		}
+	],
+	"rootPath": "github.com/Novetta/nma-web-ingester/pg-go"
+}
