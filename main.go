@@ -28,7 +28,7 @@ func main() {
 
 	dbinfo := fmt.Sprintf("postgres://%s:%s@%s:%s/%s",
 		user, pass, host, port, db)
-	fmt.Printf("Connecting to: %s\n", dbinfo)
+	fmt.Printf("Connecting to: %s:%s/%s\n", host, port, db)
 
 	connected := false
 	for !connected {
